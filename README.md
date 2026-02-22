@@ -18,7 +18,8 @@ I'm **Vaishnavi Mashakhetri**, a final year engineering student specializing in 
 
 💡 I love building things that actually *feel alive* — from aesthetic web apps to smart backend systems.  
 💻 Currently exploring the intersection of **AI + Full Stack Development**  
-🚀 Always curious, always learning, always building  
+🚀 Always curious, always learning, always building 
+Here is my portfolio - https://shnavivaish.github.io/vaishnavi-java-portfolio/
 
 ---
 
